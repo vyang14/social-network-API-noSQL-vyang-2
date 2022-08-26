@@ -1,5 +1,11 @@
 # Social Network API
 
+By Vincent Yang
+
+NOTE: This is the second repository for this project. The original repo is in need of a rebase and is not up-to-date. The original repo with all of the original history can be found here:
+
+[Original Repository](https://github.com/vyang14/social-network-API-noSQL-vyang)
+
 ## Table of Contents
 
 * [Licensing](#licensing)
